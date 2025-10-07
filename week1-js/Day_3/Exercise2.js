@@ -45,3 +45,32 @@
 
 // let circumference = 2 * pi * numRadius
 // console.log(circumference)
+
+// 5.  Calculate the slope, x-intercept and y-intercept of y = 2x -2
+
+// const slope1 = 2;
+// const yIntercept = -2;
+// const xIntercept = 1;
+// console.log('Slope (наклон):', slope1);
+// console.log('Y-intercept:', yIntercept);
+// console.log('X-intercept:', xIntercept);
+
+
+// 6.  Slope is m = (y2-y1)/(x2-x1). Find the slope between point (2, 2) and point(6,10)
+
+// const m = (10-2)/(6-2)
+// console.log(m)
+
+const x1 = 2;
+const y1 = 2;
+const x2 = 6;
+const y2 = 10;
+const slope2 = (y2-y1)/(x2-x1)
+console.log('Slope:', slope2);
+
+
+// 7.  Compare the slope of above two questions.
+
+
+
+
